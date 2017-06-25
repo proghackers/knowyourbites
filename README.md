@@ -8,7 +8,7 @@ knowyourbites - Contains the main app plus all the related info.
 3. Meanwhile [gifs.com](https://gifs.com/auto-video?yid=6uIK3o32hig) already provides a way to summarize video to gif. All they want is 10$ a month to remove their logo at the bottom.
 
 
-### Getting people onboard
+### Getting people onboard:
+- [ ] Content
 1. https://www.zomato.com/TheGirlWithFork   Talked. Has agreed to write for us. Has asked for a content strategy.
 Also agreed to fix meetings with other foodies.
-

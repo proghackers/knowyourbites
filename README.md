@@ -15,7 +15,7 @@ Also agreed to fix meetings with other foodies.
 2. Negotiation and getting people onboard :
 ELEVATOR PITCH SHOULD BE PREPARED
 
-The restuarant space is a competetive space with there being very little way for restaurants to differentiate.
+The restaurant space is a competetive space with there being very little way for restaurants to differentiate.
 zomato listings are end points for users only if they specifically search for your business. There needs to be a way for them to know your name before they can search your name.
 In the facebook attention economy marketing requires some expertise in understanding the digital medium. We use automated and human algorithms to generate content that is bound to expand reach of restuarant businesses.
 
@@ -28,6 +28,7 @@ A separate blog with high SEO on the internet makes sure that the content can be
 
 2. I already have bloggers onboard who write a review on zomato for me, so i am not interested...
 Bloggers have a very limited content to offer and the content distribution channels are weaker in terms of number of people targetted. Actual statistics for the impact they produce is unavailable.
+zomato listings are end points for users only if they specifically search for your business. There needs to be a way for them to know your name before they can search your name.
 
 3. I do not use social media, I am not interested.
 The users that you are targetting do. Which means you are losing out on fresher audiences . Leave the marketing to us.

@@ -37,3 +37,6 @@ The users that you are targetting do. Which means you are losing out on fresher 
 ### Content Strategy:
 - [ ] Classification
 1. By type of content. videos, galleries , long form articles . 
+2. Buying a new theme for wordpress. NECESSARY : Make sure other stacks can live on sub urls. i am talking about map based UI's and other bar crawl based UI.
+3. digital marketing in the form of instadiaries should be used once we have crossed the threshold level of daily unique visitors. Deciding the actual number is subjective.
+
